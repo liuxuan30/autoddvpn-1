@@ -1,5 +1,6 @@
 # Anti-GFW tools
 
+转自autoddvpn README:
 >本项目适用于ddwrt，相应的Openwrt版本请[戳这里](https://github.com/lincank/aufow)。
 
 此代码库是本人在使用[autoddvpn](http://autoddvpn.googlecode.com/)及[dd-wrt](http://www.dd-wrt.com/)固件过程中总结出来的一些经验和常用的脚本，目标是在此基础上搞出一套能自动更新的方案。经验有限，有什么错误或不足请及时告诉我，以免误导他人。
